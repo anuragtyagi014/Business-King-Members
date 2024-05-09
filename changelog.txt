@@ -10,6 +10,7 @@
 * Fix: issue with scroll to id setting.
 * Fix: issue with skip to content link not targeting main.
 
+
 == 1.1.8 | 21st October 2021 ==
 * Fix: issue with google display category font fallback.
 
